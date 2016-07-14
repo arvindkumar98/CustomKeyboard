@@ -12,7 +12,8 @@ import android.support.v7.app.AppCompatActivity;
 public class MainActivity extends AppCompatActivity{
 
    // private EditText et;
-    private static int RESULT_LOAD_IMAGE = 1;
+    private static int RESULT_LOAD_IMAGE =1;
+    private  boolean isTemp;
     static MainActivity mainActivity;
     private Bitmap yourSelectedImage;
 
