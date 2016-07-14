@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTransparent">#20FFFFFF</color>
+    <color name="colorBack">#80AFC2</color>
+
+    <color name="themes1_keystroke">#6EE0D8</color>
+    <color name="themes1_color1">#5048B6AA</color>
+    <color name="themes1_color2">#501E9799</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="themes2_keystroke">#B8B0A6</color>
+    <color name="themes2_color1">#2D4A73</color>
+    <color name="themes2_color2">#2963B9</color>
+</resources>

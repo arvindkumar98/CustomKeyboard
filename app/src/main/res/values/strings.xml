@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyKeyboard</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="simple_ime">MyCustomKeyboard</string>
+    <string name="subtype_en_US">English (US)</string>
+
+    <string name="keyboad_background">Keyboard Background Image</string>
+    <string name="themedefault">Theme Default</string>
+    <string name="themeone">Theme one</string>
+    <string name="themetwo">Theme two</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:orientation="vertical"
+    android:id="@+id/mainview">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/themes1_keystroke">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:id="@+id/menu_item"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/ic_more_vert_white_24dp"/>
+
+    </RelativeLayout>
+
+    <android.inputmethodservice.KeyboardView
+
+        android:id="@+id/keyboard1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:keyTextColor="@color/colorWhite"
+        android:padding="4px"
+        android:keyTextSize="18sp"
+
+        android:background="@drawable/images"
+        android:keyBackground="@drawable/themes1_bg"
+        android:keyPreviewLayout ="@layout/preview"
+        />
+</LinearLayout>
